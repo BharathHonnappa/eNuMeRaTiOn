@@ -4,7 +4,7 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cd "$SCRIPT_DIR" || exit 1
 
 if [[ ! -f "main.py" ]]; then
-    echo "[!] main.py not found! Make sure you're in the correct directory."
+    echo "[!] main.py not found! Exiting..."
     exit 1
 fi
 
