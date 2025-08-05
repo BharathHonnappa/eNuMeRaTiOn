@@ -20,13 +20,6 @@ bash setup.sh
 source venv/bin/activate && ./generate_wordlist.sh
 ```
 
-**CLI Mode**
-```bash
-./generate_wordlist.sh -n "target" -c 1000 -d "2002" -s "@_#"
-```
-
----
-
 ## ⚡ Features
 - Generates **intelligent wordlists** using:
   - Name / Email
