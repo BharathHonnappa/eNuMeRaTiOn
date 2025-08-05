@@ -5,7 +5,7 @@
 
 ## 🚀 Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/eNuMeRaTiOn.git
+git clone https://github.com/BharathHonnappa/eNuMeRaTiOn.git
 cd eNuMeRaTiOn
 chmod +x setup.sh generate_wordlist.sh
 bash setup.sh
