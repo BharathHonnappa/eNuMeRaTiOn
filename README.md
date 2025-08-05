@@ -17,7 +17,7 @@ bash setup.sh
 ## 🎮 Usage
 **Interactive Mode**
 ```bash
-./generate_wordlist.sh
+source venv/bin/activate && ./generate_wordlist.sh
 ```
 
 **CLI Mode**
