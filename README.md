@@ -34,6 +34,8 @@ bash setup.sh
 - Supports wordlist sizes: 100, 1000, 10000, or custom  
 - Works on **Linux/MacOS** out of the box
 
-##👨‍💻 Author
--🕶️ Mr Burst
--💻 Security Architect & Engineer
+---
+
+## 👨‍💻 Author
+🕶️ **Mr Burst**  
+💻 **Security Architect & Engineer**
