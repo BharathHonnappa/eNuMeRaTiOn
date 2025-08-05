@@ -17,7 +17,7 @@ bash setup.sh
 ## 🎮 Usage
 **Interactive Mode**
 ```bash
-source venv/bin/activate && ./generate_wordlist.sh
+./generate_wordlist.sh
 ```
 
 ## ⚡ Features
