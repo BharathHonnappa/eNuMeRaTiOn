@@ -99,6 +99,7 @@ def generate_variations(base, count, date_parts=None, custom_symbols=None):
 def main():
     base_input = input("Enter a name or email ID: ").strip()
     base_word = base_input.split("@")[0] if "@" in base_input else base_input
+    base_word = base_word.replace(" ", "")  # ✅ Remove spaces from name
 
     print("How many words should the wordlist contain?")
     print("1] 100")
